@@ -16,7 +16,7 @@
 - 调整消息可操作按钮的顺序
 - 调整公告栏字体行距
 ## Cover
-![](http://via.placeholder.com/245x245)
+![嘻嘻，测试](http://via.placeholder.com/245x245)
 
 # 20180607/ 2018-06-07
 ## Added
